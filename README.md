@@ -3,6 +3,9 @@
 
 This project checks whether a patient's meal aligns with their prescribed diet plan using the Claude API from Anthropic. The script processes a JSON file containing patient queries, compares the provided meal image with the prescribed diet, and generates a response based on the comparison.
 
+Important:
+"I have restricted the output generation to 4 responses due to the daily token limit associated with my API key."
+
 ## Prerequisites
 
 Ensure you have the following installed:
