@@ -16,8 +16,8 @@ Follow these steps to get started:
 
 ```bash
 # Step 1: Clone the Repository
-git clone https://github.com/yourusername/diet-compliance-checker.git
-cd diet-compliance-checker
+git clone https://github.com/niveditajayaswal/curelink_project.git
+cd curelink_project
 
 # Step 2: Install Required Libraries
 pip install requests anthropic
