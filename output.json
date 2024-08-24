@@ -1,0 +1,62 @@
+[
+    {
+      "ticket_id": "3a16cf52-26a0-47d6-8c91-9810039676ee",
+      "latest_query": [
+        {
+          "role": "user",
+          "content": "Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)"
+        },
+        {
+          "role": "user",
+          "content": "Sent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits."
+        },
+        {
+          "role": "user",
+          "content": "Replied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\""
+        }
+      ],
+      "generated_response": "Great job soaking the methi dana as prescribed in your diet plan! This will help reduce bloating. I noticed you also sent an image of some dry fruits. While small portions of nuts are allowed, please check your diet plan to ensure you are following the approved items and portions.",
+      "ideal_response": "Great job for having methi water, continue having it daily, it will help boost your metabolism.\nVarsha, but i also noticed that you are having figs and raisins but they are not presrcibed in the diet plan, can i know why you have added them ?"
+    },
+    {
+      "ticket_id": "3a078f8d-b2b9-41af-a592-5f1c6cdd0484",
+      "latest_query": [
+        {
+          "role": "user",
+          "content": "Sent an image (The image shows a bowl of a yellow-orange colored dish, likely a type of porridge or savory pudding, with visible black mustard seeds and small pieces of vegetables. A spoon is placed inside the bowl, suggesting it is ready to be eaten. The bowl is placed on a light-colored surface.) with the following caption One bowl vegetable upma."
+        }
+      ],
+      "generated_response": "Good morning! I see you are having vegetable upma for breakfast today. As per your diet plan, poha was recommended for breakfast. Can you help me understand why you chose upma instead? Adding veggies is great, but let's try sticking closely to the diet plan as it is tailored for your PCOS. For tomorrow, I suggest trying the oats poha - it is tasty and nourishing!\",  \n    \"ideal_response\": \"",
+      "ideal_response": "Varsha, i noticed you are having upma instead of poha as prescribed in your diet plan, can you let me know why ?"
+    },
+    {
+      "ticket_id": "8e342394-8e9f-42d5-9905-52d570fa9c2f",
+      "latest_query": [
+        {
+          "role": "user",
+          "content": "Sent an image (The image shows a close-up of a container with a mixture of food items. It appears to contain chunks of potatoes, oats, and possibly some nuts or seeds, all mixed in a creamy liquid. A spoon is partially visible, indicating that the food is ready to be eaten. The container is placed on a surface with a purple fabric underneath.) with the following caption Breakfast."
+        },
+        {
+          "role": "user",
+          "content": "And yesterday i skipped on dinner \nPhoto click krna bhul gyi thi but i had barley daliya"
+        },
+        {
+          "role": "user",
+          "content": "Today\u2019s weight after clearning stomach 73.4 kg"
+        }
+      ],
+      "generated_response": "Good morning! Based on your diet chart, your breakfast for today should have been Soya Oats Tikki with Curd Mint Dip. I see you are having something different - can you tell me what it is and why you chose this instead? Skipping meals is not advised as it",
+      "ideal_response": "Shobhita, I noticed aap oats le rhe ho, which is a healthy choice, but maine aapki diet mein aloo parantha + curd likha tha, aapne vo nhi khaya ?"
+    },
+    {
+      "ticket_id": "4937b689-8013-4316-80ec-e66447c387c3",
+      "latest_query": [
+        {
+          "role": "user",
+          "content": "Sent an image (The image shows a cup filled with milk. The cup has a design that resembles the texture of a tree trunk with visible rings and cracks. The cup is placed on a table with a colorful, possibly floral, tablecloth. In the background, there is a wooden cabinet with a pair of shoes on one of its shelves.) with the following caption 1 cup of milk without sugar only add one cardamom."
+        }
+      ],
+      "generated_response": "Hi! As per your diet plan, milk is recommended in the breakfast meal around 8:30 AM. I see you are having milk now around mid morning. Could you help me understand why you are having milk at this time instead? Let's try to stick to the diet plan as much as possible for best results.\",\n  \"ideal_response\": \"",
+      "ideal_response": "Great job on following your diet plan, keep it up!"
+    }
+  ]
